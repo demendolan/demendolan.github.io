@@ -5,11 +5,11 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
-      "main_ads_banner"           : "ca-app-pub-9742261688519964/1497889620",
+      "main_ads_banner"           : "ca-app-pub-9742261688519964/1497889620x",
       "main_ads_intertitial"      : "ca-app-pub-9742261688519964/3051726019",
-      "main_ads_native"           : "ca-app-pub-9742261688519964/9811493915",
+      "main_ads_native"           : "ca-app-pub-9742261688519964/9811493915x",
 
-      "open_ads"                  : "ca-app-pub-9742261688519964/1738644349",
+      "open_ads"                  : "ca-app-pub-9742261688519964/1738644349x",
 
       "backup_ads_banner"         : "null",
       "backup_ads_intertitial"    : "ce12917f4f709eb1",

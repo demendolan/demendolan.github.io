@@ -4,198 +4,189 @@
     {
       "id":1,
       "title":"More Apps",
-      "image":"https://demendolan.github.io/img/all.webp",
-      "link":"https://play.google.com/store/apps/developer?id=Demen+Dolan"
+      "image":"https://masaktv.github.io/img/all.webp",
+      "link":"https://play.google.com/store/apps/dev?id=7513250752586325467"
     },
-
-
-
+    {
+      "id":2,
+      "title":"Ronaldo",
+      "image":"https://masaktv.github.io/img/cristianoronaldomasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.cristianoronaldomasak"
+    },
+    {
+      "id":3,
+      "title":"Messi",
+      "image":"https://masaktv.github.io/img/lionelmessimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.lionelmessimasak"
+    },
+    {
+      "id":4,
+      "title":"Haaland",
+      "image":"https://masaktv.github.io/img/erlinghaalandmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.erlinghaalandmasak"
+    },
     {
       "id":5,
-      "title":"Ronaldo",
-      "image":"https://demendolan.github.io/img/ronaldoalnassrdolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.ronaldoalnassrdolan"
+      "title":"Mbappe",
+      "image":"https://masaktv.github.io/img/kylianmbappemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.kylianmbappemasak"
     },
     {
       "id":6,
-      "title":"Messi",
-      "image":"https://demendolan.github.io/img/lionelmessidolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.lionelmessidolan"
+      "title":"Jimin",
+      "image":"https://masaktv.github.io/img/btsjiminmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.parkjiminmasak"
     },
     {
       "id":7,
-      "title":"Haaland",
-      "image":"https://demendolan.github.io/img/erlinghaalanddolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.erlinghaalanddolan"
+      "title":"JHope",
+      "image":"https://masaktv.github.io/img/btsjhopemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.jhopejunghoseokmasak"
     },
     {
       "id":8,
-      "title":"Mbappe",
-      "image":"https://demendolan.github.io/img/kylianmbappedolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.kylianmbappedolan"
+      "title":"Jungkook",
+      "image":"https://masaktv.github.io/img/btsjungkookmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.btsjungkookmasak"
     },
-
-
-
     {
       "id":9,
-      "title":"Rod Contreras",
-      "image":"https://demendolan.github.io/img/rodcontrerasdolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.rodcontrerasdolan"
+      "title":"RM",
+      "image":"https://masaktv.github.io/img/btskimnamjoonmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.btskimnamjoonmasak"
     },
     {
       "id":10,
-      "title":"Domelipa",
-      "image":"https://demendolan.github.io/img/domelipadolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.domelipadolan"
+      "title":"Jin",
+      "image":"https://masaktv.github.io/img/btskimseokjinmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.btskimseokjinmasak"
     },
     {
       "id":11,
-      "title":"Mont Pantoja",
-      "image":"https://demendolan.github.io/img/montpantojadolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.montpantojadolan"
+      "title":"Suga",
+      "image":"https://masaktv.github.io/img/btssugamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.sugaagustdmasak"
     },
     {
       "id":12,
-      "title":"Kim Loaiza",
-      "image":"https://demendolan.github.io/img/kimberlyloaizadolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.kimberlyloaizadolan"
+      "title":"Taehyung",
+      "image":"https://masaktv.github.io/img/btstaehyungmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.btstaehyungmasak"
     },
     {
       "id":13,
-      "title":"Abby Roberts",
-      "image":"https://demendolan.github.io/img/abbyrobertsdolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.abbyrobertsdolan"
+      "title":"Jennie Blackpink",
+      "image":"https://masaktv.github.io/img/blackpinkjenniemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.blackpinkjenniemasak"
     },
     {
       "id":14,
-      "title":"Giovanna",
-      "image":"https://demendolan.github.io/img/giovannaalparonedolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.giovannaalparonedolan"
+      "title":"Jisoo Blackpink",
+      "image":"https://masaktv.github.io/img/blackpinkjisoomasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.blackpinkjisoomasak"
     },
     {
       "id":15,
-      "title":"Luluca",
-      "image":"https://demendolan.github.io/img/lulucadolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.lulucadolan"
+      "title":"Lisa Blackpink",
+      "image":"https://masaktv.github.io/img/blackpinklisamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.blackpinklisamasak"
     },
     {
       "id":16,
-      "title":"Like Nastya",
-      "image":"https://demendolan.github.io/img/likenastyadolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.likenastyadolan"
+      "title":"Rose Blackpink",
+      "image":"https://masaktv.github.io/img/blackpinkrosemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.blackpinkrosemasak"
     },
     {
       "id":17,
-      "title":"Shfa",
-      "image":"https://demendolan.github.io/img/shfadolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.shfadolan"
+      "title":"Giselle Aespa",
+      "image":"https://masaktv.github.io/img/aespagisellemasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.aespagisellemasak"
     },
     {
       "id":18,
-      "title":"Priyanka Chopra",
-      "image":"https://demendolan.github.io/img/priyankachopradolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.priyankachopradolan"
+      "title":"Karina Aespa",
+      "image":"https://masaktv.github.io/img/aespakarinamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.aespakarinamasak"
     },
     {
       "id":19,
-      "title":"Chotu Dada",
-      "image":"https://demendolan.github.io/img/chotudadadolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.chotudadadolan"
+      "title":"Winter Aespa",
+      "image":"https://masaktv.github.io/img/aespawintermasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.aespawintermasak"
     },
-
-
-
-
     {
       "id":20,
-      "title":"Maja Salvador",
-      "image":"https://demendolan.github.io/img/majasalvadordolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.majasalvadordolan"
+      "title":"NingNing Aespa",
+      "image":"https://masaktv.github.io/img/aespaningningmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.aespaningningmasak"
     },
     {
       "id":21,
-      "title":"Loisa Andalio",
-      "image":"https://demendolan.github.io/img/loisaandaliodolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.loisaandaliodolan"
+      "title":"Kim Seon-ho",
+      "image":"https://masaktv.github.io/img/kimseonhomasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.kimseonhomasak"
     },
     {
       "id":22,
-      "title":"Liza Soberano",
-      "image":"https://demendolan.github.io/img/lizasoberanodolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.lizasoberanodolan"
+      "title":"Park Seo-joon",
+      "image":"https://masaktv.github.io/img/parkseojoonmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.parkseojoonmasak"
     },
     {
       "id":23,
-      "title":"Kim Chiu",
-      "image":"https://demendolan.github.io/img/kimchiudolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.kimchiudolan"
+      "title":"Song Joong-ki",
+      "image":"https://masaktv.github.io/img/songjoongkimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.songjoongkimasak"
     },
     {
       "id":24,
-      "title":"Kathryn Bernardo",
-      "image":"https://demendolan.github.io/img/kathrynbernardodolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.kathrynbernardodolan"
+      "title":"Siwon Choi",
+      "image":"https://masaktv.github.io/img/siwonchoimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.siwonchoimasak"
     },
     {
       "id":25,
-      "title":"Heart Evangelista",
-      "image":"https://demendolan.github.io/img/heartevangelistadolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.heartevangelistadolan"
+      "title":"Inara Rusli",
+      "image":"https://masaktv.github.io/img/inararuslimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.inararuslimasak"
     },
     {
       "id":26,
-      "title":"Catriona Gray",
-      "image":"https://demendolan.github.io/img/catrionagraydolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.catrionagraydolan"
+      "title":"Fuji An",
+      "image":"https://masaktv.github.io/img/fujiantimasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.fujiantimasak"
     },
     {
       "id":27,
-      "title":"Anne Curtis",
-      "image":"https://demendolan.github.io/img/annecurtissmithdolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.annecurtissmithdolan"
+      "title":"Farel Prayoga",
+      "image":"https://masaktv.github.io/img/farelprayogamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.farelprayogamasak"
     },
     {
       "id":28,
-      "title":"Andrea Brillantes",
-      "image":"https://demendolan.github.io/img/andreabrillantesdolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.andreabrillantesdolan"
+      "title":"NAY",
+      "image":"https://masaktv.github.io/img/naisaalifiayurizamasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.naisaalifiayurizamasak"
     },
     {
       "id":29,
-      "title":"Alex Gonzaga",
-      "image":"https://demendolan.github.io/img/alexgonzagadolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.alexgonzagadolan"
+      "title":"Windah Basudara",
+      "image":"https://masaktv.github.io/img/windahbasudaramasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.windahbasudaramasak"
     },
-
-
-
-
-
-
     {
       "id":30,
-      "title":"Muhammad Hadi",
-      "image":"https://demendolan.github.io/img/muhammadhadidolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.muhammadhadidolan"
+      "title":"Rizky Febian",
+      "image":"https://masaktv.github.io/img/rizkyfebianmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.rizkyfebianmasak"
     },
     {
       "id":31,
-      "title":"Alwi Assegaf",
-      "image":"https://demendolan.github.io/img/alwiassegafdolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.alwiassegafdolan"
-    },
-    {
-      "id":32,
-      "title":"Gus Azmi",
-      "image":"https://demendolan.github.io/img/gusazmiaskandardolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.gusazmiaskandardolan"
-    },
-    {
-      "id":33,
-      "title":"Betrand Peto",
-      "image":"https://demendolan.github.io/img/betrandpetodolan.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.demendolan.betrandpetodolan"
+      "title":"Pesulap Merah",
+      "image":"https://masaktv.github.io/img/pesulapmerahmasak.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.masaktv.pesulapmerahmasak"
     }
   ]
+
 }

@@ -3,7 +3,7 @@
     {
       "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-M",
+      "select_backup_ads"         : "ADMOB",
 
       "main_ads_banner"           : "ca-app-pub-9742261688519964/3230585763",
       "main_ads_intertitial"      : "ca-app-pub-9742261688519964/3723154754",
@@ -26,8 +26,8 @@
       "high_paying_keyword_4"     : "architect",
       "high_paying_keyword_5"     : "car insurance",
 
-      "status_app": "0",
-      "link_redirect": "https://"
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.masaktv.cristianoronaldomasak"
       }
   ]
 }
